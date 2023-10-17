@@ -15,7 +15,7 @@
 
 - Rank: 153/672
 - Points: 883
-- Writeups: [writeups](BuckeyeCTF 2023/writeups.md) (to do)
+- Writeups: [writeups](BuckeyeCTF_2023/writeups.md) (to do)
 
 [MapleCTF 2023](https://ctf.maplebacon.org/)
 
