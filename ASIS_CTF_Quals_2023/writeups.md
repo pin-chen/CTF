@@ -162,24 +162,3 @@ COPY & PASTE
 
  **取得 flag 的畫面：**
 ![Grid_flag](image/Grid_flag.png)
-
-## Renamiara (未於賽中解出)
-
-- Flag：`ASIS{_An07H3r_F1XeD_PoInt5_f0r_DLP!!}`
-
-### 解題流程與思路
-
-**解題過程：**
-
-**取得 flag 的畫面：**
-![Renamiara_flag](image/Renamiara_flag.png)
-
-## hipwn (未於賽中解出)
-
-- Flag：``
-
-### 解題流程與思路
-
-**解題過程：**
-
-**取得 flag 的畫面：**

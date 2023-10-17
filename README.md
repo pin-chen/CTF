@@ -9,7 +9,7 @@
 
 - Rank: 100/657
 - Points: 131
-- Writeups: [writeups](ASIS_CTF_Quals_2023/writeups.md) (to do)
+- Writeups: [writeups](ASIS_CTF_Quals_2023/writeups.md)
 
 [BuckeyeCTF 2023](https://ctf.osucyber.club/)
 
