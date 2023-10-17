@@ -9,13 +9,13 @@
 
 - Rank: 100/657
 - Points: 131
-- Writeups: [writeups](ASIS_CTF_Quals_2023/writups.md)
+- Writeups: [writeups](ASIS_CTF_Quals_2023/writeups.md) (to do)
 
 [BuckeyeCTF 2023](https://ctf.osucyber.club/)
 
 - Rank: 153/672
 - Points: 883
-- Writeups: to do
+- Writeups: [writeups](BuckeyeCTF 2023/writeups.md) (to do)
 
 [MapleCTF 2023](https://ctf.maplebacon.org/)
 
